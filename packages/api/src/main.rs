@@ -14,7 +14,7 @@ use std::path::Path;
 struct Bullshit;
 lazy_static! {
     static ref LIES: String = {
-        let path = Path::new("lies.yaml");
+        let path = Path::new("lies.json");
         let display = path.display();
         let mut file = match File::open(&path) {
             Err(_) => {
@@ -33,8 +33,7 @@ lazy_static! {
         };
 
         let parsed = json::parse(&lies).unwrap();
-        let doc = &parsed[0];
-        println!("{}", doc);
+        println!("{}", &parsed["data"][0]);
 
         lies
     };
