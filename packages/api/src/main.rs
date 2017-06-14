@@ -10,10 +10,11 @@ use futures::future::FutureResult;
 use std::fs::File;
 use std::io::prelude::*;
 use std::path::Path;
+use json::{JsonValue};
 
 struct Bullshit;
 lazy_static! {
-    static ref LIES: String = {
+    static ref LIES: JsonValue = {
         let path = Path::new("lies.json");
         let display = path.display();
         let mut file = match File::open(&path) {
@@ -32,10 +33,7 @@ lazy_static! {
             Ok(lies) => lies,
         };
 
-        let parsed = json::parse(&lies).unwrap();
-        println!("{}", &parsed["data"][0]);
-
-        lies
+        json::parse(&lies).unwrap()
     };
 }
 
