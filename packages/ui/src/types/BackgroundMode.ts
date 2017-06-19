@@ -1,0 +1,5 @@
+const enum BACKGROUND_MODE {
+  MAX_HEIGHT,
+  MAX_WIDTH
+}
+export default BACKGROUND_MODE
