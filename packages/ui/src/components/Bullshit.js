@@ -1,12 +1,7 @@
 import './Bullshit.css'
-import * as React from 'react'
+import React from 'react'
 
-export interface BullshitProps {
-  quote?: string
-  reference?: string
-}
-
-function Bullshit (props: any) {
+function Bullshit (props) {
   const { quote, reference } = props
   return (
     <div className='bullshit'>
