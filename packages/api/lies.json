@@ -1,5 +1,4 @@
-{
-  "data": [
+[
     {
       "reference_url": "http://www.politifact.com/truth-o-meter/statements/2017/may/12/donald-trump/trump-calls-trump-russia-story-made-/",
       "text": "This Russia thing with Trump and Russia is a made-up story. It's an excuse by the Democrats for having lost an election that they should've won."
@@ -30,15 +29,15 @@
     },
     {
       "reference_url": "http://www.politifact.com/truth-o-meter/statements/2016/nov/28/donald-trump/donald-trumps-pants-fire-claim-millions-illegal-vo/",
-      "text": "Says he won the popular vote if you deduct the millions of people who voted illegally."
+      "text": "Said: he won the popular vote if you deduct the millions of people who voted illegally."
     },
     {
       "reference_url": "http://www.politifact.com/truth-o-meter/statements/2016/nov/06/donald-trump/donald-trumps-pants-fire-claim-obama-screamed-prot/",
-      "text": "Says that at a campaign rally President Barack Obama spent so much time screaming at a protester, and frankly it was a disgrace."
+      "text": "Said: that at a campaign rally President Barack Obama spent so much time screaming at a protester, and frankly it was a disgrace."
     },
     {
       "reference_url": "http://www.politifact.com/truth-o-meter/statements/2016/oct/31/donald-trump/trump-says-clinton-would-bring-650-million-people-/",
-      "text": "Says Hillary Clinton wants to let people just pour in. You could have 650 million people pour in and we do nothing about it. Think of it. That’s what could happen. You triple the size of our country in one week."
+      "text": "Said: Hillary Clinton wants to let people just pour in. You could have 650 million people pour in and we do nothing about it. Think of it. That’s what could happen. You triple the size of our country in one week."
     },
     {
       "reference_url": "http://www.politifact.com/truth-o-meter/statements/2016/oct/25/donald-trump/trump-absurd-claims-podesta-rigged-polls/",
@@ -62,11 +61,11 @@
     },
     {
       "reference_url": "http://www.politifact.com/wisconsin/statements/2016/oct/12/donald-trump/donald-trumps-ridiculous-claim-all-polls-show-he-w/",
-      "text": "Says he won the second debate with Hillary Clinton in a landslide in every poll."
+      "text": "Said: he won the second debate with Hillary Clinton in a landslide in every poll."
     },
     {
       "reference_url": "http://www.politifact.com/truth-o-meter/statements/2016/oct/09/donald-trump/trump-early-morning-sex-tape-tweet/",
-      "text": "Says a tweet he sent out wasn’t saying, ‘check out a sex tape.’ It was just ‘take a look at the background of Alicia Machado."
+      "text": "Said: a tweet he sent out wasn’t saying, ‘check out a sex tape.’ It was just ‘take a look at the background of Alicia Machado."
     },
     {
       "reference_url": "http://www.politifact.com/truth-o-meter/statements/2016/sep/22/donald-trump/trumps-pants-fire-claim-blacks-are-absolutely-wors/",
@@ -82,7 +81,7 @@
     },
     {
       "reference_url": "http://www.politifact.com/arizona/statements/2016/sep/09/donald-trump/donald-trumps-pants-fire-claim-hillary-clinton-has/",
-      "text": "Says Hillary Clinton has not answered a single question about her immigration plan."
+      "text": "Said: Hillary Clinton has not answered a single question about her immigration plan."
     },
     {
       "reference_url": "http://www.politifact.com/truth-o-meter/statements/2016/sep/01/donald-trump/donald-trump-repeats-pants-fire-claim-about-30-mil/",
@@ -94,11 +93,11 @@
     },
     {
       "reference_url": "http://www.politifact.com/truth-o-meter/statements/2016/aug/15/donald-trump/donald-trumps-baseless-claims-about-election-being/",
-      "text": "Says the U.S. election system is rigged."
+      "text": "Said: the U.S. election system is rigged."
     },
     {
       "reference_url": "http://www.politifact.com/truth-o-meter/statements/2016/aug/11/donald-trump/donald-trump-pants-fire-claim-obama-founded-isis-c/",
-      "text": "Says Barack Obama founded ISIS. I would say the co-founder would be crooked Hillary Clinton."
+      "text": "Said: Barack Obama founded ISIS. I would say the co-founder would be crooked Hillary Clinton."
     },
     {
       "reference_url": "http://www.politifact.com/truth-o-meter/statements/2016/aug/05/donald-trump/donald-trump-wrongly-says-hillary-clinton-wants-ra/",
@@ -122,7 +121,7 @@
     },
     {
       "reference_url": "http://www.politifact.com/texas/statements/2016/jul/22/donald-trump/pants-fire-claim-ted-cruz-never-denied-father-phot/",
-      "text": "Says Ted Cruz never denied his father was photographed with Lee Harvey Oswald."
+      "text": "Said: Ted Cruz never denied his father was photographed with Lee Harvey Oswald."
     },
     {
       "reference_url": "http://www.politifact.com/truth-o-meter/statements/2016/jun/24/donald-trump/what-do-we-know-about-hillary-clintons-religion-lo/",
@@ -130,7 +129,7 @@
     },
     {
       "reference_url": "http://www.politifact.com/truth-o-meter/statements/2016/jun/23/donald-trump/donald-trump-flubs-claim-hillary-clinton-deleted-h/",
-      "text": "Says Hillary Clinton has even deleted this record of total support (for the Trans-Pacific Partnership trade agreement) from her book."
+      "text": "Said: Hillary Clinton has even deleted this record of total support (for the Trans-Pacific Partnership trade agreement) from her book."
     },
     {
       "reference_url": "http://www.politifact.com/truth-o-meter/statements/2016/jun/22/donald-trump/trump-wrong-clintons-refugee-plan-would-cost-more-/",
@@ -158,7 +157,7 @@
     },
     {
       "reference_url": "http://www.politifact.com/truth-o-meter/statements/2016/may/03/donald-trump/donald-trumps-ridiculous-claim-linking-ted-cruzs-f/",
-      "text": "Says Ted Cruz’s father was with Lee Harvey Oswald before the assassination of President John F. Kennedy."
+      "text": "Said: Ted Cruz’s father was with Lee Harvey Oswald before the assassination of President John F. Kennedy."
     },
     {
       "reference_url": "http://www.politifact.com/truth-o-meter/statements/2016/may/02/donald-trump/donald-trump-wrong-hillary-clinton-doesnt-do-very-/",
@@ -170,7 +169,7 @@
     },
     {
       "reference_url": "http://www.politifact.com/truth-o-meter/statements/2016/mar/30/donald-trump/donald-trump-michelle-fields-changed-her-story-fir/",
-      "text": "Says that when Michelle Fields found out that there was a security camera, and that they had her on tape, all of a sudden that story changed."
+      "text": "Said: that when Michelle Fields found out that there was a security camera, and that they had her on tape, all of a sudden that story changed."
     },
     {
       "reference_url": "http://www.politifact.com/florida/statements/2016/mar/24/donald-trump/no-donald-trump-winning-66-67-florida-counties-not/",
@@ -182,11 +181,11 @@
     },
     {
       "reference_url": "http://www.politifact.com/truth-o-meter/statements/2016/feb/25/donald-trump/donald-trumps-pants-fire-claim-he-never-discussed-/",
-      "text": "Says Ted Cruz said I was in favor in Libya. I never discussed that subject."
+      "text": "Said: Ted Cruz said I was in favor in Libya. I never discussed that subject."
     },
     {
       "reference_url": "http://www.politifact.com/truth-o-meter/statements/2016/feb/23/donald-trump/donald-trump-cites-dubious-legend-about-gen-pershi/",
-      "text": "Says that in the Philippines more than a century ago, Gen. John Pershing took 50 bullets, and he dipped them in pigs’ blood, and shot 49 Muslim rebels. The 50th person, he said, ‘You go back to your people, and you tell them what happened.’ And for 25 years, there wasn’t a problem."
+      "text": "Said: that in the Philippines more than a century ago, Gen. John Pershing took 50 bullets, and he dipped them in pigs’ blood, and shot 49 Muslim rebels. The 50th person, he said, ‘You go back to your people, and you tell them what happened.’ And for 25 years, there wasn’t a problem."
     },
     {
       "reference_url": "http://www.politifact.com/truth-o-meter/statements/2016/feb/11/donald-trump/donald-trump-repeats-pants-fire-claim-unemployment/",
@@ -202,7 +201,7 @@
     },
     {
       "reference_url": "http://www.politifact.com/truth-o-meter/statements/2015/nov/23/donald-trump/trump-tweet-blacks-white-homicide-victims/",
-      "text": "Says crime statistics show blacks kill 81 percent of white homicide victims."
+      "text": "Said: crime statistics show blacks kill 81 percent of white homicide victims."
     },
     {
       "reference_url": "http://www.politifact.com/truth-o-meter/statements/2015/nov/22/donald-trump/fact-checking-trumps-claim-thousands-new-jersey-ch/",
@@ -222,7 +221,7 @@
     },
     {
       "reference_url": "http://www.politifact.com/virginia/statements/2015/oct/20/donald-trump/trump-bernie-sanders-wants-tax-everyone-90-percent/",
-      "text": "Says Bernie Sanders is going to tax you people at 90 percent."
+      "text": "Said: Bernie Sanders is going to tax you people at 90 percent."
     },
     {
       "reference_url": "http://www.politifact.com/truth-o-meter/statements/2015/sep/30/donald-trump/donald-trump-says-unemployment-rate-may-be-42-perc/",
@@ -246,7 +245,7 @@
     },
     {
       "reference_url": "http://www.politifact.com/punditfact/statements/2014/oct/14/donald-trump/trump-obama-fundraising-trip-cost-25-50-million/",
-      "text": "Says President Barack Obama’s recent New York fundraising trip cost between $25 million and $50 million."
+      "text": "Said: President Barack Obama’s recent New York fundraising trip cost between $25 million and $50 million."
     },
     {
       "reference_url": "http://www.politifact.com/truth-o-meter/statements/2011/apr/27/donald-trump/donal-trump-says-kuwait-never-paid-us-back-ousting/",
@@ -302,7 +301,7 @@
     },
     {
       "reference_url": "http://www.politifact.com/truth-o-meter/statements/2017/mar/16/donald-trump/donald-trump-says-he-learned-obama-tapped-his-phon/",
-      "text": "Says the New York Times wrote about Barack Obama wiretapping Donald Trump during the election."
+      "text": "Said: the New York Times wrote about Barack Obama wiretapping Donald Trump during the election."
     },
     {
       "reference_url": "http://www.politifact.com/truth-o-meter/statements/2017/feb/19/donald-trump/donald-trump-florida-rally-laments-attack-last-nig/",
@@ -314,7 +313,7 @@
     },
     {
       "reference_url": "http://www.politifact.com/truth-o-meter/statements/2017/feb/09/donald-trump/trump-wrong-sen-blumenthals-cnn-interview-and-viet/",
-      "text": "Says CNN’s Chris Cuomo never asked Sen. Richard Blumenthal about Blumenthal's misstatements on his own service in Vietnam."
+      "text": "Said: CNN’s Chris Cuomo never asked Sen. Richard Blumenthal about Blumenthal's misstatements on his own service in Vietnam."
     },
     {
       "reference_url": "http://www.politifact.com/truth-o-meter/statements/2017/feb/08/donald-trump/donald-trump-wrong-murder-rate-highest-47-years/",
@@ -322,7 +321,7 @@
     },
     {
       "reference_url": "http://www.politifact.com/truth-o-meter/statements/2017/feb/06/donald-trump/president-trump-says-109-people-were-affected-trav/",
-      "text": "Says 109 people out of hundreds of thousands of travelers were affected by the immigration executive order."
+      "text": "Said: 109 people out of hundreds of thousands of travelers were affected by the immigration executive order."
     },
     {
       "reference_url": "http://www.politifact.com/truth-o-meter/statements/2017/jan/29/donald-trump/no-evidence-trump-claim-it-was-impossible-syrian-c/",
@@ -370,7 +369,7 @@
     },
     {
       "reference_url": "http://www.politifact.com/ohio/statements/2016/oct/31/donald-trump/trump-mistakes-exhibition-hall-abandoned-factory/",
-      "text": "Says Ohio’s I-X Center used to be a great plant, but thousands of people of worked here, and they left when their jobs were moved overseas."
+      "text": "Said: Ohio’s I-X Center used to be a great plant, but thousands of people of worked here, and they left when their jobs were moved overseas."
     },
     {
       "reference_url": "http://www.politifact.com/truth-o-meter/statements/2016/oct/24/donald-trump/donald-trump-wrongly-says-14-percent-noncitizens-a/",
@@ -382,11 +381,11 @@
     },
     {
       "reference_url": "http://www.politifact.com/truth-o-meter/statements/2016/oct/20/donald-trump/donald-trump-says-hillary-clinton-wrong-say-he-moc/",
-      "text": "Says Hillary Clinton is wrong to say he mocked a disabled reporter."
+      "text": "Said: Hillary Clinton is wrong to say he mocked a disabled reporter."
     },
     {
       "reference_url": "http://www.politifact.com/truth-o-meter/statements/2016/oct/18/donald-trump/fbi-director-james-comey-says-donald-trump-has-it-/",
-      "text": "Says Hillary Clinton was let off the hook for her email scandal while Gen. David Petraeus had his life destroyed for doing far, far less."
+      "text": "Said: Hillary Clinton was let off the hook for her email scandal while Gen. David Petraeus had his life destroyed for doing far, far less."
     },
     {
       "reference_url": "http://www.politifact.com/truth-o-meter/statements/2016/oct/11/donald-trump/donald-trump-base-claim-about-michelle-obama-criti/",
@@ -394,19 +393,19 @@
     },
     {
       "reference_url": "http://www.politifact.com/truth-o-meter/statements/2016/oct/11/donald-trump/donald-trump-incorrectly-pins-benghazi-criticism-s/",
-      "text": "Says Sidney Blumenthal wrote that the Benghazi attack was almost certainly preventable. Clinton was in charge of the State Department, and it failed to protect U.S. personnel and an American consulate in Libya."
+      "text": "Said: Sidney Blumenthal wrote that the Benghazi attack was almost certainly preventable. Clinton was in charge of the State Department, and it failed to protect U.S. personnel and an American consulate in Libya."
     },
     {
       "reference_url": "http://www.politifact.com/truth-o-meter/statements/2016/oct/10/donald-trump/trump-says-clinton-laughed-about-rape-case/",
-      "text": "Says after Hillary Clinton helped a man accused of raping a 12-year-old, she's seen laughing on two separate occasions, laughing at the girl who was raped."
+      "text": "Said: after Hillary Clinton helped a man accused of raping a 12-year-old, she's seen laughing on two separate occasions, laughing at the girl who was raped."
     },
     {
       "reference_url": "http://www.politifact.com/truth-o-meter/statements/2016/oct/09/donald-trump/donald-trump-wrongly-says-hillary-clinton-wants-go/",
-      "text": "Says Hillary Clinton wants to go to a single-payer plan for health care"
+      "text": "Said: Hillary Clinton wants to go to a single-payer plan for health care"
     },
     {
       "reference_url": "http://www.politifact.com/truth-o-meter/statements/2016/oct/09/donald-trump/donald-trump-has-no-fiduciary-responsibility-his-p/",
-      "text": "Says he has a fiduciary responsibility to his business, his family and his employees to pay no more tax than legally required."
+      "text": "Said: he has a fiduciary responsibility to his business, his family and his employees to pay no more tax than legally required."
     },
     {
       "reference_url": "http://www.politifact.com/wisconsin/statements/2016/oct/06/donald-trump/how-much-money-have-wall-street-and-hedge-funds-gi/",
@@ -414,7 +413,7 @@
     },
     {
       "reference_url": "http://www.politifact.com/truth-o-meter/statements/2016/sep/27/donald-trump/donald-trump-my-trans-pacific-partnership-oppositi/",
-      "text": "Says to Hillary Clinton, You heard what I said about (the Trans-Pacific Partnership trade deal), and all of a sudden you were against it."
+      "text": "Said: to Hillary Clinton, You heard what I said about (the Trans-Pacific Partnership trade deal), and all of a sudden you were against it."
     },
     {
       "reference_url": "http://www.politifact.com/truth-o-meter/statements/2016/sep/27/donald-trump/donald-trump-wrong-again-about-nato-increasing-ter/",
@@ -422,15 +421,15 @@
     },
     {
       "reference_url": "http://www.politifact.com/truth-o-meter/statements/2016/sep/27/donald-trump/trump-says-clinton-would-bring-620000-refugees-her/",
-      "text": "Says Hillary Clinton's plan would bring in 620,000 refugees in her first term, alone, with no effective way to screen or vet them. Her plan would cost $400 billion in terms of lifetime welfare and entitlement costs."
+      "text": "Said: Hillary Clinton's plan would bring in 620,000 refugees in her first term, alone, with no effective way to screen or vet them. Her plan would cost $400 billion in terms of lifetime welfare and entitlement costs."
     },
     {
       "reference_url": "http://www.politifact.com/truth-o-meter/statements/2016/sep/27/donald-trump/donald-trumps-false-clinton-energy-plan/",
-      "text": "Says Hillary Clinton’s energy agenda will cost the U.S. economy over $5 trillion"
+      "text": "Said: Hillary Clinton’s energy agenda will cost the U.S. economy over $5 trillion"
     },
     {
       "reference_url": "http://www.politifact.com/truth-o-meter/statements/2016/sep/27/donald-trump/trump-again-tries-pin-birtherism-clinton-insiders/",
-      "text": "Says top Clinton advisers were pressing birther movement stories very hard."
+      "text": "Said: top Clinton advisers were pressing birther movement stories very hard."
     },
     {
       "reference_url": "http://www.politifact.com/truth-o-meter/statements/2016/sep/26/donald-trump/donald-trump-claims-again-he-was-against-war-iraq/",
@@ -470,11 +469,11 @@
     },
     {
       "reference_url": "http://www.politifact.com/truth-o-meter/statements/2016/aug/26/donald-trump/clinton-wants-tax-african-american-businesses-50-p/",
-      "text": "Says Hillary Clinton wants to raise taxes on African-American owned businesses to as much as nearly 50 percent more than they're paying now."
+      "text": "Said: Hillary Clinton wants to raise taxes on African-American owned businesses to as much as nearly 50 percent more than they're paying now."
     },
     {
       "reference_url": "http://www.politifact.com/wisconsin/statements/2016/aug/18/donald-trump/hillary-clinton-want-millions-illegal-immigrants-t/",
-      "text": "Says Hillary Clinton is proposing to print instant work permits for millions of illegal immigrants to come in and take everybody's jobs, including low-income African-Americans."
+      "text": "Said: Hillary Clinton is proposing to print instant work permits for millions of illegal immigrants to come in and take everybody's jobs, including low-income African-Americans."
     },
     {
       "reference_url": "http://www.politifact.com/truth-o-meter/statements/2016/aug/16/donald-trump/donald-trump-mischaracterizes-nato-change-and-his-/",
@@ -486,7 +485,7 @@
     },
     {
       "reference_url": "http://www.politifact.com/truth-o-meter/statements/2016/aug/05/donald-trump/donald-trump-says-he-didnt-see-video-cash-being-tr/",
-      "text": "Says he saw videotape of the people taking the money off the plane to pay ransom to Iran for hostages."
+      "text": "Said: he saw videotape of the people taking the money off the plane to pay ransom to Iran for hostages."
     },
     {
       "reference_url": "http://www.politifact.com/truth-o-meter/statements/2016/aug/04/donald-trump/ama-trump-exaggerates-youth-unemployment/",
@@ -498,7 +497,7 @@
     },
     {
       "reference_url": "http://www.politifact.com/truth-o-meter/statements/2016/jul/21/donald-trump/despite-new-adverb-trumps-claim-about-clinton-want/",
-      "text": "Says Hillary Clinton wants to essentially abolish the Second Amendment."
+      "text": "Said: Hillary Clinton wants to essentially abolish the Second Amendment."
     },
     {
       "reference_url": "http://www.politifact.com/florida/statements/2016/jul/20/donald-trump/donald-trump-wrongly-blames-hillary-clinton-creati/",
@@ -506,7 +505,7 @@
     },
     {
       "reference_url": "http://www.politifact.com/truth-o-meter/statements/2016/jul/18/donald-trump/trump-says-without-proof-he-recommended-ohio-gop-c/",
-      "text": "Says as GOP was picking a convention city, I recommended Ohio."
+      "text": "Said: as GOP was picking a convention city, I recommended Ohio."
     },
     {
       "reference_url": "http://www.politifact.com/truth-o-meter/statements/2016/jul/15/donald-trump/donald-trump-mischaract-fbi-director-comment-about/",
@@ -518,11 +517,11 @@
     },
     {
       "reference_url": "http://www.politifact.com/truth-o-meter/statements/2016/jun/28/donald-trump/trump-wrongly-says-clinton-filibustered-fannie-mae/",
-      "text": "Says Hillary Clinton filibustered legislation to reform Fannie Mae and Freddie Mac."
+      "text": "Said: Hillary Clinton filibustered legislation to reform Fannie Mae and Freddie Mac."
     },
     {
       "reference_url": "http://www.politifact.com/florida/statements/2016/jun/23/donald-trump/donald-trump-says-hillary-clinton-would-create-tot/",
-      "text": "Says Hillary Clinton’s immigration platform would create totally open borders."
+      "text": "Said: Hillary Clinton’s immigration platform would create totally open borders."
     },
     {
       "reference_url": "http://www.politifact.com/truth-o-meter/statements/2016/jun/23/donald-trump/donald-trump-says-hillary-clinton-slept-through-be/",
@@ -554,7 +553,7 @@
     },
     {
       "reference_url": "http://www.politifact.com/truth-o-meter/statements/2016/may/11/donald-trump/donald-trump-falsely-claims-hillary-clinton-wants-/",
-      "text": "Says Hillary Clinton wants to abolish the Second Amendment."
+      "text": "Said: Hillary Clinton wants to abolish the Second Amendment."
     },
     {
       "reference_url": "http://www.politifact.com/truth-o-meter/statements/2016/may/08/donald-trump/donald-trump-wrongly-says-noncitizens-can-vote-whe/",
@@ -578,7 +577,7 @@
     },
     {
       "reference_url": "http://www.politifact.com/truth-o-meter/statements/2016/apr/20/donald-trump/donald-trump-praises-rex-ryans-imaginary-afc-champ/",
-      "text": "Says professional football coach Rex Ryan won championships in New York. The AFC, I think, twice."
+      "text": "Said: professional football coach Rex Ryan won championships in New York. The AFC, I think, twice."
     },
     {
       "reference_url": "http://www.politifact.com/colorado/statements/2016/apr/19/donald-trump/trump-calls-colorado-caucus-system-rigged-theres-n/",
@@ -586,7 +585,7 @@
     },
     {
       "reference_url": "http://www.politifact.com/florida/statements/2016/apr/18/donald-trump/donald-trump-says-marco-rubio-and-jeb-bush-had-flo/",
-      "text": "Says Jeb Bush and Marco Rubio had it set so that the winner takes everything, because they wanted to make sure that I didn't get anything in the Florida primary."
+      "text": "Said: Jeb Bush and Marco Rubio had it set so that the winner takes everything, because they wanted to make sure that I didn't get anything in the Florida primary."
     },
     {
       "reference_url": "http://www.politifact.com/truth-o-meter/statements/2016/apr/14/donald-trump/donald-trump-wrong-about-1980-ronald-reagan-race-a/",
@@ -594,7 +593,7 @@
     },
     {
       "reference_url": "http://www.politifact.com/truth-o-meter/statements/2016/mar/31/donald-trump/donald-trump-has-no-evidence-ted-cruz-was-responsi/",
-      "text": "Says Ted Cruz distributed the ad showing a nude Melania Trump on a rug."
+      "text": "Said: Ted Cruz distributed the ad showing a nude Melania Trump on a rug."
     },
     {
       "reference_url": "http://www.politifact.com/wisconsin/statements/2016/mar/30/donald-trump/donald-trump-wrong-about-wisconsins-effective-unem/",
@@ -614,7 +613,7 @@
     },
     {
       "reference_url": "http://www.politifact.com/truth-o-meter/statements/2016/mar/13/donald-trump/donald-trump-wrongly-links-campaign-event-proteste/",
-      "text": "Says the man who rushed the stage at him in Dayton, Ohio, had chatter about ISIS, or with ISIS in his social media posts."
+      "text": "Said: the man who rushed the stage at him in Dayton, Ohio, had chatter about ISIS, or with ISIS in his social media posts."
     },
     {
       "reference_url": "http://www.politifact.com/truth-o-meter/statements/2016/mar/11/donald-trump/no-gdp-growth-not-zero-trump-says/",
@@ -630,11 +629,11 @@
     },
     {
       "reference_url": "http://www.politifact.com/truth-o-meter/statements/2016/mar/03/donald-trump/donald-trump-falls-phony-gandhi-quote/",
-      "text": "Says Mahatma Gandhi once said, First they ignore you, then they laugh at you, then they fight you, then you win."
+      "text": "Said: Mahatma Gandhi once said, First they ignore you, then they laugh at you, then they fight you, then you win."
     },
     {
       "reference_url": "http://www.politifact.com/truth-o-meter/statements/2016/mar/01/donald-trump/donald-trump-wrong-ny-times-cant-be-sued-story-the/",
-      "text": "Says the New York Times can write a story that they know is false yet they can't basically be sued."
+      "text": "Said: the New York Times can write a story that they know is false yet they can't basically be sued."
     },
     {
       "reference_url": "http://www.politifact.com/truth-o-meter/statements/2016/feb/28/donald-trump/fact-checking-donald-trumps-claims-about-trump-uni/",
@@ -662,7 +661,7 @@
     },
     {
       "reference_url": "http://www.politifact.com/florida/statements/2016/jan/26/donald-trump/donald-trump-says-course-mexico-can-pay-wall-becau/",
-      "text": "Says Mexico can afford to build a wall because the country's trade deficit with America is billions of dollars."
+      "text": "Said: Mexico can afford to build a wall because the country's trade deficit with America is billions of dollars."
     },
     {
       "reference_url": "http://www.politifact.com/truth-o-meter/statements/2016/jan/14/donald-trump/donald-trumps-false-claim-refugees-migrants-are-mo/",
@@ -682,11 +681,11 @@
     },
     {
       "reference_url": "http://www.politifact.com/truth-o-meter/statements/2015/nov/05/donald-trump/donald-trumps-false-claim-his-tax-plan-wouldnt-inc/",
-      "text": "Says his plan would cut taxes without increasing the deficit."
+      "text": "Said: his plan would cut taxes without increasing the deficit."
     },
     {
       "reference_url": "http://www.politifact.com/truth-o-meter/statements/2015/nov/02/donald-trump/donald-trumps-fracked-claim-shales-economic-impact/",
-      "text": "Says Ohio Gov. John Kasich got lucky with a thing called fracking, which is why Ohio is doing well."
+      "text": "Said: Ohio Gov. John Kasich got lucky with a thing called fracking, which is why Ohio is doing well."
     },
     {
       "reference_url": "http://www.politifact.com/virginia/statements/2015/oct/26/donald-trump/trump-says-61-percent-us-bridges-trouble/",
@@ -694,7 +693,7 @@
     },
     {
       "reference_url": "http://www.politifact.com/truth-o-meter/statements/2015/oct/21/donald-trump/trump-says-cia-warned-president-bush-9-11-attacks/",
-      "text": "Says CIA Director George Tenet told the Bush administration that the Sept. 11, 2001, terrorist attack was coming. So they did have advanced notice."
+      "text": "Said: CIA Director George Tenet told the Bush administration that the Sept. 11, 2001, terrorist attack was coming. So they did have advanced notice."
     },
     {
       "reference_url": "http://www.politifact.com/virginia/statements/2015/oct/20/donald-trump/trump-says-us-has-highest-tax-rate-anywhere-world/",
@@ -710,7 +709,7 @@
     },
     {
       "reference_url": "http://www.politifact.com/truth-o-meter/statements/2015/sep/17/donald-trump/donald-trump-says-mexico-doesnt-have-birthright-ci/",
-      "text": "Says Mexico doesn't have birthright citizenship, and Americans are the only ones to have it."
+      "text": "Said: Mexico doesn't have birthright citizenship, and Americans are the only ones to have it."
     },
     {
       "reference_url": "http://www.politifact.com/virginia/statements/2015/sep/04/donald-trump/trump-says-iran-deal-forces-us-defend-iran-if-its-/",
@@ -742,7 +741,7 @@
     },
     {
       "reference_url": "http://www.politifact.com/truth-o-meter/statements/2015/jul/21/donald-trump/after-not-war-hero-remark-donald-trump-says-john-m/",
-      "text": "Says John McCain has done nothing to help the vets."
+      "text": "Said: John McCain has done nothing to help the vets."
     },
     {
       "reference_url": "http://www.politifact.com/truth-o-meter/statements/2015/jul/20/donald-trump/donald-trump-says-if-youre-syria-and-christianyou-/",
@@ -750,7 +749,7 @@
     },
     {
       "reference_url": "http://www.politifact.com/florida/statements/2015/jul/15/donald-trump/trump-says-florida-had-five-sanctuary-cities-when-/",
-      "text": "Says Florida had five sanctuary cities while Jeb Bush was governor."
+      "text": "Said: Florida had five sanctuary cities while Jeb Bush was governor."
     },
     {
       "reference_url": "http://www.politifact.com/truth-o-meter/statements/2015/jul/14/donald-trump/donald-trump-says-5-billion-website-obamacare-neve/",
@@ -758,7 +757,7 @@
     },
     {
       "reference_url": "http://www.politifact.com/truth-o-meter/statements/2015/jul/06/donald-trump/donald-trumps-art-deal-best-selling-business-book-/",
-      "text": "Says his book, The Art of the Deal, is the No. 1 selling business book of all time."
+      "text": "Said: his book, The Art of the Deal, is the No. 1 selling business book of all time."
     },
     {
       "reference_url": "http://www.politifact.com/truth-o-meter/statements/2015/jun/28/donald-trump/trump-pro-choice-polling-numbers-declining/",
@@ -790,7 +789,7 @@
     },
     {
       "reference_url": "http://www.politifact.com/truth-o-meter/statements/2011/apr/07/donald-trump/donald-trump-says-president-obamas-grandmother-cau/",
-      "text": "Says President Obama's grandmother in Kenya said he was born in Kenya and she was there and witnessed the birth."
+      "text": "Said: President Obama's grandmother in Kenya said he was born in Kenya and she was there and witnessed the birth."
     },
     {
       "reference_url": "http://www.politifact.com/truth-o-meter/statements/2011/apr/01/donald-trump/donald-trump-says-south-korea-doesnt-pay-us-troop-/",
@@ -1008,5 +1007,4 @@
       "reference_url": "http://www.washingtonpost.com/blogs/fact-checker/wp/2015/07/08/donald-trumps-false-comments-connecting-mexican-immigrants-and-crime/",
       "text": "Mexicans are bringing drugs. They’re bringing crime. They’re rapists. And some, I assume, are good people."
     }
-  ]
-}
+]
