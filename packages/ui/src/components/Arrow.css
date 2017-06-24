@@ -1,0 +1,33 @@
+.arrow {
+  width: 15vw;
+  max-width: 75px;
+  height: 15vw;
+  max-height: 75px;
+  display: block;
+  transition: all 0.5s;
+  transform: rotate(-90deg) translateX(0px);
+}
+
+.arrow.down {
+}
+
+.arrow.down.next {
+  border-radius: 8vh;
+  box-shadow: 0px 0px 15px 2px;
+}
+
+.arrow.down.next path {
+  fill: white;
+}
+
+.arrow:hover {
+  cursor: pointer;
+}
+
+.arrow:hover {
+  color: antiquewhite;
+  transform: rotate(-90deg) translateX(-10px);
+}
+.arrow:hover * {
+  box-shadow: 0px 0px 20px 4px;
+}

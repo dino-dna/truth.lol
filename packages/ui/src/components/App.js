@@ -8,6 +8,9 @@ import {
   setBackgroundImageElementStyles,
   setBackgroundNaturalDimensions
 } from '../state/dux/background'
+import {
+  fetch as fetchBullshit
+} from '../state/dux/bullshit'
 
 class App extends PureComponent {
   constructor (props) {
@@ -75,6 +78,7 @@ class App extends PureComponent {
 export default connect(
   function mapState (state) { return state },
   {
+    fetchBullshit,
     setBackgroundImageElementStyles,
     setBackgroundNaturalDimensions
   }
