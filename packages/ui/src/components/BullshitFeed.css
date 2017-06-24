@@ -1,7 +1,7 @@
 .bullshit-feed {
   display: flex;
   opacity: 0.95;
-
+  align-items: center;
 }
 
 .bullshit-feed-fader {
@@ -14,4 +14,8 @@
 .bullshit-feed-fader > * {
   display: block;
   margin: 6px 0;
+}
+
+#bullshit-nav > * {
+  margin: 10px;
 }

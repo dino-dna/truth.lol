@@ -7,8 +7,13 @@ export const GET_BULLSHIT = 'GET_BULLSHIT'
 export const SET_BULLSHIT = 'SET_BULLSHIT'
 
 // reducer
-export default function reducer (state, action) {
-  return state
+export default function reducer (state = [], { type, payload }) {
+  switch (type) {
+    case SET_BULLSHIT:
+      return payload
+    default:
+      return state
+  }
 }
 
 // action creators

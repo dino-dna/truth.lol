@@ -5,27 +5,35 @@
   max-height: 75px;
   display: block;
   transition: all 0.5s;
-  transform: rotate(-90deg) translateX(0px);
+}
+
+.arrow.up {
+  transform: rotate(90deg) translateX(0px);
 }
 
 .arrow.down {
+  transform: rotate(-90deg) translateX(0px);
 }
 
-.arrow.down.next {
+.arrow {
   border-radius: 8vh;
   box-shadow: 0px 0px 15px 2px;
 }
 
-.arrow.down.next path {
+.arrow path {
   fill: white;
 }
 
 .arrow:hover {
   cursor: pointer;
+  color: antiquewhite;
 }
 
-.arrow:hover {
-  color: antiquewhite;
+.arrow.up:hover {
+  transform: rotate(90deg) translateX(-10px);
+}
+
+.arrow.down:hover {
   transform: rotate(-90deg) translateX(-10px);
 }
 .arrow:hover * {

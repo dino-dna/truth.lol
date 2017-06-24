@@ -4841,7 +4841,7 @@ promise@7.1.1, promise@^7.1.1:
   dependencies:
     asap "~2.0.3"
 
-prop-types@^15.5.10, prop-types@^15.5.4:
+prop-types@^15.5.10, prop-types@^15.5.4, prop-types@^15.5.8:
   version "15.5.10"
   resolved "https://registry.yarnpkg.com/prop-types/-/prop-types-15.5.10.tgz#2797dfc3126182e3a95e3dfbb2e893ddd7456154"
   dependencies:
@@ -5038,6 +5038,12 @@ react-scripts@^1.0.7:
     whatwg-fetch "2.0.3"
   optionalDependencies:
     fsevents "1.0.17"
+
+react-swipeable@^4.0.1:
+  version "4.0.1"
+  resolved "https://registry.yarnpkg.com/react-swipeable/-/react-swipeable-4.0.1.tgz#2cb3a04a52ccebf5361881b30e233dc13ee4b115"
+  dependencies:
+    prop-types "^15.5.8"
 
 react@^15.6.1:
   version "15.6.1"

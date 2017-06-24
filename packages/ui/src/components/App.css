@@ -26,3 +26,21 @@ body {
   justify-content: center;
   align-items: center;
 }
+
+footer {
+  display: flex;
+  position: fixed;
+  bottom: 0;
+  background: white;
+  text-align: center;
+  padding: 10px;
+  align-items: center;
+  width: 100%;
+  justify-content: center;
+}
+
+#gh-ref {
+  float: right;
+  right: 15px;
+  position: absolute;
+}

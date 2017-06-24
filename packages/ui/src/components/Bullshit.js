@@ -2,11 +2,11 @@ import './Bullshit.css'
 import React from 'react'
 
 function Bullshit (props) {
-  const { quote, reference } = props
+  const { text, reference_url: referenceUrl } = props
   return (
     <div className='bullshit'>
-      <p>{quote}</p>
-      <a target='_blank' rel='noopener noreferrer' href={reference}>reference</a>
+      <p>{text}</p>
+      <a className='bullshit-reference' target='_blank' rel='noopener noreferrer' href={referenceUrl}>reference</a>
     </div>
   )
 }
