@@ -1,2 +1,5 @@
 # truth.lol
-truth. HA!
+
+sharing untruths in the pursuit of defending truth.
+
+[COTRIBUTING.md](./CONTRIBUTING.md)

@@ -1,5 +1,6 @@
 {
   "name": "ui",
+  "description": "truth.lol ui",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
