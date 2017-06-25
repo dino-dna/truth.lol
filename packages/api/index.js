@@ -1,10 +1,11 @@
 'use strict'
-const micro = require('micro')
+const express = require('express')
 const lies = require('./lies')
-const { createError } = micro
-const server = micro(async (req, res) => {
-  var [,, bullshit, id] = req.url.split('/')
-  if (!bullshit || bullshit.indexOf('bullshit') === -1) return createError(400)
-  return id ? lies[id] : lies
+const path = require('path')
+var app = express()
+app.use(express.static(path.resolve(__dirname, 'public')))
+app.get('/api/bullshit/:id?*', function (req, res) {
+  const { id } = req.params
+  return res.send(id ? lies[id] : lies)
 })
-server.listen(process.env.PORT || 4000)
+app.listen(process.env.PORT || 4000)
