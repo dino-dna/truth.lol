@@ -2,7 +2,7 @@ import './App.css'
 import React, { PureComponent } from 'react'
 import BullshitFeed from './BullshitFeed'
 import { connect } from 'react-redux'
-import { debounce } from 'lodash'
+import debounce from 'lodash/debounce'
 import ghlogo from './gh.png'
 
 import {

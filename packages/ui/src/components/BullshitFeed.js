@@ -1,5 +1,5 @@
 import './BullshitFeed.css'
-import { isNumber } from 'lodash'
+import isNumber from 'lodash/isNumber'
 import React, { PureComponent } from 'react'
 import styled, { keyframes } from 'styled-components'
 import { fadeInDownBig, fadeInUpBig } from 'react-animations'
