@@ -39,6 +39,16 @@ footer {
   align-items: center;
   width: 100%;
   justify-content: center;
+  min-height: 24px;
+}
+
+@media (max-width: 600px) {
+  #lying-is-bad {
+    float: left;
+    position: absolute;
+    left: 15px;
+    justify-content: initial;
+  }
 }
 
 #gh-ref {

@@ -76,18 +76,18 @@ class App extends PureComponent {
         <img id='bg' alt='truth.lol-background'
           ref={this.setImgRef}
           src='/imgs/dt1.jpg' style={elementDimensions} />
+        <footer>
+          <a id='lying-is-bad' href='http://www.bbc.co.uk/ethics/lying/lying_1.shtml' target='_blank' rel='noopener noreferrer'>Is lying bad?</a>
+          <a id='gh-ref' href='https://github.com/dino-dna/truth.lol/issues/new' target='_blank' rel='noopener noreferrer'>
+            Have more lies? <img height='15px' alt='ghlogo'src={ghlogo} />
+          </a>
+        </footer>
         <BullshitFeed {...{
           bullshit,
           lie,
           setLie,
           setRandomLie
         }} />
-        <footer>
-          <a href='http://www.bbc.co.uk/ethics/lying/lying_1.shtml' target='_blank' rel='noopener noreferrer'>Is lying bad?</a>
-          <a id='gh-ref' href='https://github.com/dino-dna/truth.lol/issues/new' target='_blank' rel='noopener noreferrer'>
-            Have more lies? <img height='15px' alt='ghlogo'src={ghlogo} />
-          </a>
-        </footer>
       </div>
     )
   }
