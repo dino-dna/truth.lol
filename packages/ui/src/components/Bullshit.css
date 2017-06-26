@@ -1,4 +1,7 @@
 .bullshit {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
   padding: 1em;
   background-color: white;
   border-radius: 4px;
@@ -8,6 +11,6 @@
 }
 
 .bullshit-reference {
-  float: right;
+  text-align: right;
   font-style: italic;
 }

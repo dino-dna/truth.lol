@@ -3,6 +3,8 @@ html, body {
   width: 100%;
   padding: 0;
   margin: 0;
+  /* https://stackoverflow.com/a/29313685/1438908 */
+  overflow-y: hidden;
 }
 
 body {

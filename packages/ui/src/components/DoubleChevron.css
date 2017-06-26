@@ -1,0 +1,42 @@
+.double-chevron {
+  height: 14px;
+}
+
+.double-chevron.up {
+  transform: rotate(90deg);
+}
+
+.double-chevron.down {
+  transform: rotate(-90deg);
+}
+
+.double-chevron.padded.up {
+  margin-bottom: 10px;}
+
+.double-chevron.padded.down {
+  margin-top: 10px;
+}
+
+.double-chevron path:nth-child(1) {
+  animation-duration: 2s;
+  animation-name: swipeme_a;
+  animation-iteration-count: infinite;
+}
+
+.double-chevron path:nth-child(2) {
+  animation-duration: 2s;
+  animation-name: swipeme_b;
+  animation-iteration-count: infinite;
+}
+
+@keyframes swipeme_a {
+  0%   { fill: lightgray; }
+  50%  { fill: black; }
+  100% { fill: lightgray; }
+}
+
+@keyframes swipeme_b {
+  0%   { fill: black; }
+  50%  { fill: lightgray; }
+  100% { fill: black; }
+}

@@ -19,3 +19,8 @@
 #bullshit-nav > * {
   margin: 10px;
 }
+
+#active-lie {
+  position: relative;
+  transition: all 0.2s;
+}
