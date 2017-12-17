@@ -4,8 +4,10 @@ version = "0.1.0"
 authors = ["David La Chasse <david.lachasse@gmail.com>", "Chris Dieringer <christopher.dieringer+rad.dude@gmail>"]
 
 [dependencies]
-rocket = "*"
-rocket_codegen = "*"
-futures = "0.1"
+futures = "*"
+hyper = "*"
 lazy_static = "*"
 json  = "*"
+rocket = "*"
+rocket_codegen = "*"
+tokio-core = "*"
