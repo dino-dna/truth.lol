@@ -1,24 +1,26 @@
 #![feature(plugin)]
 #![plugin(rocket_codegen)]
-// #[macro_use]
-
-extern crate lazy_static;
+#![feature(macro_vis_matcher)]
 extern crate rocket;
-extern crate json;
 extern crate futures;
 extern crate hyper;
 extern crate tokio_core;
 
+mod bullshit;
 mod client;
 
 use rocket::response::content;
 
 #[get("/bullshit")]
-fn bullshit() -> content::Json<String> {
-    return content::Json(String::from("dawg, use http://static.politifact.com/api/doc.html"));
+fn buuuuuulshiiit() -> content::Json<String> {
+    let client = client::create();
+    return content::Json(
+        String::from("dawg, use http://static.politifact.com/api/doc.html")
+    );
 }
 
 fn main() {
-    rocket::ignite().mount("/", routes![bullshit]).launch();
-    client::get();
+    bullshit::init();
+    rocket::ignite()
+        .mount("/", routes![buuuuuulshiiit]).launch();
 }
