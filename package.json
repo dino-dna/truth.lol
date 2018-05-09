@@ -3,5 +3,13 @@
   "version": "0.0.0",
   "repository": "git@github.com:dino-dna/truth.lol.git",
   "author": "cdaringe <christopher.dieringer@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "scripts": {
+    "build": "node build.js"
+  },
+  "devDependencies": {
+    "cheerio": "^1.0.0-rc.2",
+    "fs-extra": "^6.0.0",
+    "lodash": "^4.17.10"
+  }
 }
