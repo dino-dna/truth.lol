@@ -1,8 +1,0 @@
-{
-  "git.ignoreLimitWarning": true,
-  "rust.actionOnSave": "check",
-  "rust.rls": {
-      "executable": "rustup",
-      "args": ["run", "nightly", "rls"]
-  }
-}
