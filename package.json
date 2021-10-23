@@ -5,25 +5,31 @@
   "author": "cdaringe <cdaringe@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "lodash": "^4.17.4",
-    "react": "^15.6.1",
-    "react-animations": "^0.1.0",
-    "react-dom": "^15.6.1",
+    "@types/lodash": "4.14.176",
+    "@types/react": "17.0.31",
+    "@types/react-animations": "1.0.0",
+    "@types/react-dom": "17.0.10",
+    "fs-extra": "10.0.0",
+    "html-entities": "2.3.2",
+    "husky": "7.0.4",
+    "lodash": "4.17.21",
+    "preact": "8.5.3",
+    "preact-compat": "3.19.0",
+    "prettier": "2.4.1",
+    "react": "17.0.2",
+    "react-animations": "^1.0.0",
+    "react-dom": "17.0.2",
+    "react-query": "3.27.0",
     "react-redux": "^5.0.5",
-    "react-swipeable": "^4.0.1",
+    "react-scripts": "4.0.3",
+    "react-swipeable": "^6.2.0",
     "redux": "^3.7.0",
     "redux-logger": "^3.0.6",
     "redux-observable": "^0.18.0",
     "rxjs": "5",
-    "styled-components": "^2.1.0"
-  },
-  "devDependencies": {
-    "cheerio": "^1.0.0-rc.2",
-    "fs-extra": "^6.0.0",
-    "husky": "^0.13.4",
-    "lodash": "^4.17.10",
-    "prettier": "2.4.1",
-    "react-scripts": "^1.0.7"
+    "sql.js-httpvfs": "0.8.11",
+    "styled-components": "^2.1.0",
+    "typescript": "4.4.4"
   },
   "scripts": {
     "format": "prettier --write src/",
@@ -33,5 +39,34 @@
     "eject": "react-scripts eject",
     "precommit": "npm run format"
   },
-  "proxy": "http://localhost:8080"
+  "resolve": {
+    "alias": {
+      "react": "preact-compat",
+      "react-dom": "preact-compat"
+    }
+  },
+  "browserslist": {
+    "production": [
+      ">0.1% in US",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 4 chrome version",
+      "last 4 firefox version",
+      "last 4 safari version"
+    ]
+  },
+  "devDependencies": {
+    "@types/sqlite3": "3.1.7",
+    "happy-dom": "2.24.1",
+    "node-fetch": "2",
+    "sqlite3": "5.0.2",
+    "ts-node": "10.4.0"
+  },
+  "ts-node": {
+    "moduleTypes": {
+      "scripts/**/*": "cjs"
+    }
+  }
 }
